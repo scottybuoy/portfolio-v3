@@ -10,6 +10,7 @@ body {
 
 .custom-nav-bg {
     background-color: rgb(83, 83, 83);
+    height: 80px;
 }
 
 header {
@@ -21,8 +22,13 @@ header {
 }
 
 a {
+    color:rgb(59, 59, 59);
     text-decoration: none;
-    color: white;
+}
+
+.custom-nav-bg a{
+    color:white;
+    text-decoration: none;
 }
 
 .custom-nav-item {
@@ -52,4 +58,9 @@ footer {
     color:rgb(131, 131, 131);
     background-color: rgb(216, 216, 216);
     height: 100px;
+}
+
+.contact-icon {
+    width: 40px;
+    margin-right: 20px;
 }
