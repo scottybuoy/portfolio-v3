@@ -1,0 +1,55 @@
+body {
+    background-color: rgb(247, 247, 247);
+    /* color: white; */
+}
+
+#logo {
+    /* color:rgb(83, 83, 83);
+    text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white; */
+}
+
+.custom-nav-bg {
+    background-color: rgb(83, 83, 83);
+}
+
+header {
+    color: white;
+    height: 80px;
+    border-style: solid;
+    border-width: 0px 0px 1px 0px;
+    border-color: rgb(59, 59, 59);
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+.custom-nav-item {
+    text-align: right;
+}
+
+.project-container {
+    background-color: white;
+    border-radius: 5px;
+    border-style: solid;
+    border-width: 1px;
+    border-color:rgb(226, 226, 226);
+    margin-right: 20px;
+}
+
+.project-image {
+    border-radius: 9px;
+    margin-right: 20px;
+    box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.2);
+}
+
+.proj-desc {
+    color:rgb(143, 143, 143);
+}
+
+footer {
+    color:rgb(131, 131, 131);
+    background-color: rgb(216, 216, 216);
+    height: 100px;
+}
